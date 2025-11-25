@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-projects",
+    title: "projects",
     section: "Navigation",
     handler: () => {
       window.location.href = "/projects/";
@@ -14,7 +14,7 @@ ninja.data = [{
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
