@@ -38,7 +38,7 @@ layout: page
 title: About
 permalink: /about-redirect/
 nav: true
-nav_order: 9
+nav_order: 1
 ---
 
 <script type="text/javascript">
