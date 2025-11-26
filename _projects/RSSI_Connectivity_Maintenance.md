@@ -3,7 +3,7 @@ layout: page
 title: RSSI-enabled Connectivity Maintenance
 description: Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination
 img: assets/img/figure_a.gif
-redirect: https://wenhaol.github.io/DCM-RSSI/
+redirect: https://github.com/wenhaol/DCM-RSSI
 importance: 3
 category: Multi-robot Connectivity Maintenance
 ---
