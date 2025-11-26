@@ -5,7 +5,7 @@ permalink: /
 description: A growing collection of your cool projects.
 nav: false
 nav_order: 2
-display_categories: [Safety-critical Robot Decision Making, Safe Vision Language Navigation, Multi-robot Connectivity Maintenance]
+display_categories: [Safety-critical Robot Decision Making, Safe Multimodal Foundation Models, Multi-robot Connectivity Maintenance]
 horizontal: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Safe Vision Language Navigation
+description: Fine-tuning vision language navigation with Control Barrier Functions
 img: assets/img/3.jpg
 importance: 2
-category: Safe Vision Language Navigation
+category: Safe Multimodal Foundation Models
 giscus_comments: true
 ---
 
