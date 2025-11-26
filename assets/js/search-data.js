@@ -429,6 +429,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/projects/9_project/";
+            },},{id: "projects-rssi-enabled-connectivity-maintenance",
+          title: 'RSSI-enabled Connectivity Maintenance',
+          description: "Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/projects/RSSI_Connectivity_Maintenance/";
             },},{
         id: 'social-cv',
         title: 'CV',
