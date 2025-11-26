@@ -35,11 +35,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ---
 layout: page
-title: About
+title: about
 permalink: /about-redirect/
 nav: true
 nav_order: 1
 ---
+
 
 <script type="text/javascript">
     window.location.href = "https://yanzezhang97.github.io";
