@@ -269,6 +269,17 @@ ninja.data = [{
             window.location.href = "/projects/blog/2022/giscus-comments/";
           
         },
+      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+        
+          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          
+        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -389,9 +400,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-safe-vision-language-navigation",
+          title: 'Safe Vision Language Navigation',
+          description: "Fine-tuning vision language navigation with Control Barrier Functions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
