@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about-redirect/
 nav: true
 nav_order: 1
@@ -20,7 +20,7 @@ nav_order: 1
 <!-- ---
 layout: about
 title: about
-permalink: /about-redirect
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
