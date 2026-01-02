@@ -5,7 +5,7 @@ description: Fine-tuning vision language navigation with Control Barrier Functio
 img: Safe_VLN/img/vlnce-setting.png
 importance: 2
 category: Safe Multimodal Foundation Models
-giscus_comments: true
+giscus_comments: false
 ---
 
 Vision and Language Navigation in Continuous Environments is an instruction-guided navigation task with crowdsourced instructions, realistic environments, and unconstrained agent navigation. 
