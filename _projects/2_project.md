@@ -30,5 +30,5 @@ Safe VLN (Safe Vision-and-Language Navigation) is the “do VLN, but don’t do 
     </div>
 </div>
 
-
+The tutorial and code will be made publicly available.
 
