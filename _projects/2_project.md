@@ -2,7 +2,7 @@
 layout: page
 title: Safe Vision Language Navigation
 description: Fine-tuning vision language navigation with Control Barrier Functions
-img: Safe_VLN/img/vlnce-setting.png
+img: Safe_VLN/vlnce-setting.png
 importance: 2
 category: Safe Multimodal Foundation Models
 giscus_comments: false
